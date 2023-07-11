@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/Roblou2/shopping-cart/static/css/main.a3e89f37.css",
-    "main.js": "/Roblou2/shopping-cart/static/js/main.930ea5fd.js",
+    "main.css": "/Roblou2/shopping-cart/static/css/main.9c1fe576.css",
+    "main.js": "/Roblou2/shopping-cart/static/js/main.3eff8f84.js",
     "static/js/787.d6fe38e8.chunk.js": "/Roblou2/shopping-cart/static/js/787.d6fe38e8.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.a09e19a26c69d41759b6.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.1.96": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.74f12de10e15e784fb55.ttf",
     "static/media/materialdesignicons-webfont.woff?v=7.1.96": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.a20ebdc2830d7db8d98f.woff",
     "static/media/materialdesignicons-webfont.woff2?v=7.1.96": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.3e1e7fadbeeea08d11e5.woff2",
-    "static/media/logo.svg": "/Roblou2/shopping-cart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Roblou2/shopping-cart/index.html",
-    "main.a3e89f37.css.map": "/Roblou2/shopping-cart/static/css/main.a3e89f37.css.map",
-    "main.930ea5fd.js.map": "/Roblou2/shopping-cart/static/js/main.930ea5fd.js.map",
+    "main.9c1fe576.css.map": "/Roblou2/shopping-cart/static/css/main.9c1fe576.css.map",
+    "main.3eff8f84.js.map": "/Roblou2/shopping-cart/static/js/main.3eff8f84.js.map",
     "787.d6fe38e8.chunk.js.map": "/Roblou2/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3e89f37.css",
-    "static/js/main.930ea5fd.js"
+    "static/css/main.9c1fe576.css",
+    "static/js/main.3eff8f84.js"
   ]
 }
