@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Roblou2/shopping-cart/static/css/main.007ee0e6.css",
-    "main.js": "/Roblou2/shopping-cart/static/js/main.ca159e4d.js",
-    "static/js/787.d6fe38e8.chunk.js": "/Roblou2/shopping-cart/static/js/787.d6fe38e8.chunk.js",
-    "static/media/materialdesignicons-webfont.eot": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.a09e19a26c69d41759b6.eot",
-    "static/media/materialdesignicons-webfont.ttf?v=7.1.96": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.74f12de10e15e784fb55.ttf",
-    "static/media/materialdesignicons-webfont.woff?v=7.1.96": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.a20ebdc2830d7db8d98f.woff",
-    "static/media/materialdesignicons-webfont.woff2?v=7.1.96": "/Roblou2/shopping-cart/static/media/materialdesignicons-webfont.3e1e7fadbeeea08d11e5.woff2",
-    "static/media/blue-square.png": "/Roblou2/shopping-cart/static/media/blue-square.a9230d42a774bd28c706.png",
-    "static/media/smartphone-one.jpg": "/Roblou2/shopping-cart/static/media/smartphone-one.d9c667e4d2f336d9e79b.jpg",
-    "static/media/phone-shop-hero.png": "/Roblou2/shopping-cart/static/media/phone-shop-hero.ff904ca73345b9bafc67.png",
-    "static/media/smartphone-three.jpg": "/Roblou2/shopping-cart/static/media/smartphone-three.2269bbdc0afa50b36259.jpg",
-    "static/media/smartphone-four.jpg": "/Roblou2/shopping-cart/static/media/smartphone-four.ada5d55b01497c4b274e.jpg",
-    "static/media/smartphone-two.jpg": "/Roblou2/shopping-cart/static/media/smartphone-two.d698d22f5b73ec69d813.jpg",
-    "static/media/smartphone-five.jpg": "/Roblou2/shopping-cart/static/media/smartphone-five.03e6725cf4ec475c89b0.jpg",
-    "index.html": "/Roblou2/shopping-cart/index.html",
-    "main.007ee0e6.css.map": "/Roblou2/shopping-cart/static/css/main.007ee0e6.css.map",
-    "main.ca159e4d.js.map": "/Roblou2/shopping-cart/static/js/main.ca159e4d.js.map",
-    "787.d6fe38e8.chunk.js.map": "/Roblou2/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
+    "main.css": "/shopping-cart/static/css/main.9d7e8137.css",
+    "main.js": "/shopping-cart/static/js/main.dbc9dfd7.js",
+    "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/materialdesignicons-webfont.eot": "/shopping-cart/static/media/materialdesignicons-webfont.a09e19a26c69d41759b6.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=7.1.96": "/shopping-cart/static/media/materialdesignicons-webfont.74f12de10e15e784fb55.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=7.1.96": "/shopping-cart/static/media/materialdesignicons-webfont.a20ebdc2830d7db8d98f.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=7.1.96": "/shopping-cart/static/media/materialdesignicons-webfont.3e1e7fadbeeea08d11e5.woff2",
+    "static/media/blue-square.png": "/shopping-cart/static/media/blue-square.a9230d42a774bd28c706.png",
+    "static/media/smartphone-one.jpg": "/shopping-cart/static/media/smartphone-one.d9c667e4d2f336d9e79b.jpg",
+    "static/media/phone-shop-hero.png": "/shopping-cart/static/media/phone-shop-hero.ff904ca73345b9bafc67.png",
+    "static/media/smartphone-three.jpg": "/shopping-cart/static/media/smartphone-three.2269bbdc0afa50b36259.jpg",
+    "static/media/smartphone-four.jpg": "/shopping-cart/static/media/smartphone-four.ada5d55b01497c4b274e.jpg",
+    "static/media/smartphone-two.jpg": "/shopping-cart/static/media/smartphone-two.d698d22f5b73ec69d813.jpg",
+    "static/media/smartphone-five.jpg": "/shopping-cart/static/media/smartphone-five.03e6725cf4ec475c89b0.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.9d7e8137.css.map": "/shopping-cart/static/css/main.9d7e8137.css.map",
+    "main.dbc9dfd7.js.map": "/shopping-cart/static/js/main.dbc9dfd7.js.map",
+    "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.007ee0e6.css",
-    "static/js/main.ca159e4d.js"
+    "static/css/main.9d7e8137.css",
+    "static/js/main.dbc9dfd7.js"
   ]
 }
